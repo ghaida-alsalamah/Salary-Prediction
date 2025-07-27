@@ -53,7 +53,7 @@ The notebook includes helpful plots for:
 3. Open the Jupyter Notebook and run all cells
 
 ## 👥 Authors
-- **Ghaida Alsalamah** – [@ghaidaalsalamah]
+- **Ghaida Alsalamah** – [@ghaida-alsalamah]
 - **Haneen Aldawood** – [@hyvuz]
 - **3** – [@]
 - **4** – [@]
