@@ -51,3 +51,14 @@ The notebook includes helpful plots for:
    ```bash
    pip install -r requirements.txt3.
 3. Open the Jupyter Notebook and run all cells
+
+## 👥 Authors
+- **Ghaida Alsalamah** – [@ghaidaalsalamah]
+- **Haneen Alsawood** – [@hyvuz]
+- **3** – [@]
+- **4** – [@]
+- **5** – [@]
+- **6** – [@]
+-لا
+- لاس
+- لأ
