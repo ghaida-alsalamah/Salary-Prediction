@@ -59,6 +59,5 @@ The notebook includes helpful plots for:
 - **4** – [@]
 - **5** – [@]
 - **6** – [@]
--لا
-- لاس
-- لأ
+
+  
