@@ -54,7 +54,7 @@ The notebook includes helpful plots for:
 
 ## 👥 Authors
 - **Ghaida Alsalamah** – [@ghaidaalsalamah]
-- **Haneen Alsawood** – [@hyvuz]
+- **Haneen Aldawood** – [@hyvuz]
 - **3** – [@]
 - **4** – [@]
 - **5** – [@]
