@@ -49,14 +49,14 @@ The notebook includes helpful plots for:
 1. Clone this repository
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt3.
+   pip install -r requirements.txt.
 3. Open the Jupyter Notebook and run all cells
 
 ## 👥 Authors
 - **Ghaida Alsalamah** – [@ghaida-alsalamah]
 - **Haneen Aldawood** – [@hyvuz]
-- **3** – [@]
-- **4** – [@]
+- **Bushra alshulail** – [@bushraalshulail]
+- **Lina Alsidran** – [@rlyfaraway]
 - **5** – [@]
 - **6** – [@]
 
