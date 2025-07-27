@@ -49,4 +49,5 @@ The notebook includes helpful plots for:
 1. Clone this repository
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt3.
+3. Open the Jupyter Notebook and run all cells
