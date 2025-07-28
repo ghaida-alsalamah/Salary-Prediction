@@ -57,7 +57,7 @@ The notebook includes helpful plots for:
 - **Haneen Aldawood** – [@hyvuz]
 - **Bushra alshulail** – [@bushraalshulail]
 - **Lina Alsidran** – [@rlyfaraway]
-- **5** – [@]
-- **6** – [@]
+- **Layali Alqahtani** – [@Layali24]
+- **Danah Alsayari** – [@danah20153]
 
   
